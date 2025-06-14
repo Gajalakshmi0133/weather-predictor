@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient(to right, #d54ae7, #fabbf7);
+  color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.input-white {
+  background-color: rgb(29, 26, 26);
+  border-radius: 8px;
+}
+
+.input-white input {
+  background-color: rgb(255, 245, 245);
+  color: #fcf5f5;
+  border: none;
+}
+
+.input-white input::placeholder {
+  color: #999;
+}
+
+
+.header {
+  background: linear-gradient(to right, #ee52f3, #f0b5ff);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  background-color: #343a40;
+  margin-top: auto;
+}
+
+.weather-card,
+.forecast-card {
+  background: rgba(63, 59, 63, 0.9);
+  border-radius: 35px;
+  padding: 20px;
+  box-shadow: 0 5px 1px rgb(5, 6, 7);
+  margin-bottom: 20px;
+  transition: transform 0.3s;
+  text-align: center;
+}
+
+.weather-card:hover,
+.forecast-card:hover {
+  transform: translateY(-5px);
+}
+
+.forecast-card img {
+  width: 80px;
+  height: 80px;
+}
+
+a.text-info:hover {
+  color: #c30ce7 !important;
+}
