@@ -1,6 +1,4 @@
 
-### ✅ `README.md`
-
 # 🌤️ SkyCast – Responsive Weather Forecast Website
 
 SkyCast is a stylish, mobile-friendly weather web app that shows **real-time current conditions** and **5-day weather forecasts** for any city worldwide. It uses the **WorldWeatherOnline API** for accurate global data and includes smooth CSS animations, a beautiful gradient UI, and modern iconography.
@@ -83,7 +81,7 @@ Just open `index.html` in your browser and start searching!
 
 ## 🧑‍💻 Author
 
-**Gaja Lakshmi**
+**Gajalakshmi**
 [🔗 GitHub](https://github.com/gajalakshmi0133)
 [🔗 Linkedln](https://www.linkedin.com/in/gajalakshmi-k-201884283/)
 
